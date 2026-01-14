@@ -52,9 +52,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       <body className="font-sans antialiased">
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
           <NextIntlClientProvider messages={messages}>
-            <Suspense fallback={null}>
               {children}
-            </Suspense>
           </NextIntlClientProvider>
         </ThemeProvider>
         <Analytics />
