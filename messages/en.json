@@ -1,0 +1,72 @@
+{
+  "navbar": {
+    "language": "English",
+    "label": "navigation menu",
+    "sr_open_menu": "Open menu",
+    "herotitle": "Welcome to my portfolio",
+    "links": {
+      "about": "About",
+      "projects": "Projects",
+      "contact": "Contact"
+    }
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Cristian",
+    "role": "Student and web developer",
+    "description": "I specialize in building modern web applications using Next.js and other cutting-edge technologies.",
+    "viewWork": "View Work",
+    "aboutMe": "About Me"
+  },
+  "about": {
+    "title": "About Me",
+    "journey": {
+      "title": "My Journey",
+      "beginning": "The Beginning",
+      "beginningDesc": "I started my journey by simply making small python scripts, but when I eventually discovered web development, I was hooked.",
+      "current": "Current Focus",
+      "currentDesc": "I am currently focused on creating Micro-Saas applications with <important>Next.js</important> and building websites for local businesses to help them establish an online presence."
+    },
+    "arsenal": {
+      "title": "The Arsenal"
+    },
+    "beyond": {
+      "title": "Beyond Code",
+      "description": "When I'm not coding, I enjoy skiing, going to the gym, playing the piano, and exploring new technologies. I believe that a well-rounded life fuels creativity and innovation in my work."
+    }
+  },
+  "projects": {
+    "title": "Featured Work",
+    "subtitle": "Web developer",
+    "live": "Live Demo",
+    "code": "View Code",
+    "list": {
+      "notebuddy": {
+        "title": "NoteBuddy",
+        "description": "Making note-taking easier and faster with a seamless UI and a defined structure."
+      },
+      "webAgency": {
+        "title": "Landing Page for Website Design Service",
+        "description": "A sleek and modern landing page designed to showcase website design services and attract potential clients."
+      }
+    }
+  },
+  "contact": {
+    "subtitle": "Get in Touch",
+    "title": "Let's Chat",
+    "description": "Having a project in mind or just want to say hi? My inbox is open.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your Name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "message": "Message",
+      "messagePlaceholder": "Tell me about your project...",
+      "submit": "Send Message"
+    },
+    "connect": "Or Connect via",
+    "buildTogether": "Let's build something together",
+    "downloadResume": "Download Resume",
+    "copyright": "© 2026 Cristian Poretto Portfolio"
+  }
+}

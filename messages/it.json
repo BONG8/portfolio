@@ -1,0 +1,72 @@
+{
+  "navbar": {
+    "language": "Italiano",
+    "label": "menu di navigazione",
+    "sr_open_menu": "Apri menu",
+    "herotitle": "Benvenuto nel mio portfolio",
+    "links": {
+      "about": "Chi Sono",
+      "projects": "Progetti",
+      "contact": "Contatti"
+    }
+  },
+  "hero": {
+    "greeting": "Ciao, sono",
+    "name": "Cristian",
+    "role": "Studente e sviluppatore web",
+    "description": "Mi specializzo nella creazione di applicazioni web moderne utilizzando Next.js e altre tecnologie all'avanguardia.",
+    "viewWork": "Vedi Lavori",
+    "aboutMe": "Chi Sono"
+  },
+  "about": {
+    "title": "Chi Sono",
+    "journey": {
+      "title": "Il Mio Percorso",
+      "beginning": "L'inizio",
+      "beginningDesc": "Ho iniziato il mio percorso creando piccoli script in Python, ma quando ho scoperto lo sviluppo web, ne sono rimasto affascinato.",
+      "current": "Focus Attuale",
+      "currentDesc": "Attualmente mi concentro sulla creazione di applicazioni Micro-Saas con <important>Next.js</important> e sulla realizzazione di siti web per le imprese locali."
+    },
+    "arsenal": {
+      "title": "Il Mio Stack"
+    },
+    "beyond": {
+      "title": "Oltre il Codice",
+      "description": "Quando non scrivo codice, mi piace sciare, andare in palestra, suonare il piano ed esplorare nuove tecnologie. Credo che una vita equilibrata alimenti la creatività nel mio lavoro."
+    }
+  },
+  "projects": {
+    "title": "Lavori in evidenza",
+    "subtitle": "Sviluppatore Web",
+    "live": "Live Demo",
+    "code": "Visualizza Codice",
+    "list": {
+      "notebuddy": {
+        "title": "NoteBuddy",
+        "description": "Rendere più facile e veloce prendere appunti con un'interfaccia utente semplice e una struttura definita."
+      },
+      "webAgency": {
+        "title": "Landing Page per Servizi di Web Design",
+        "description": "Una landing page elegante e moderna progettata per mostrare servizi di web design e attrarre potenziali clienti."
+      }
+    }
+  },
+  "contact": {
+    "subtitle": "Contattami",
+    "title": "Parliamo",
+    "description": "Hai un progetto in mente o vuoi solo salutare? La mia mail è a tua disposizione.",
+    "form": {
+      "name": "Nome",
+      "namePlaceholder": "Il tuo nome",
+      "email": "Email",
+      "emailPlaceholder": "tua@email.com",
+      "message": "Messaggio",
+      "messagePlaceholder": "Raccontami del tuo progetto...",
+      "submit": "Invia Messaggio"
+    },
+    "connect": "Oppure collegati via",
+    "buildTogether": "Costruiamo qualcosa insieme",
+    "downloadResume": "Scarica Curriculum",
+    "copyright": "© 2026 Portfolio Cristian Poretto"
+  }
+}
