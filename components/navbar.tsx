@@ -62,7 +62,7 @@ export function Navbar() {
 	return (
 		<div className="fixed top-0 left-0 right-0 z-50 flex justify-center p-4">
 			<header
-				className={`transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)] ${
+				className={`transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)] rounded-xl ${
 					scrolled
 						? "w-full max-w-md bg-background/70 backdrop-blur-xl border border-border/50 shadow-lg rounded-fulltranslate-y-0"
 						: "w-full max-w-lg bg-transparent border-transparent shadow-none translate-y-2"
