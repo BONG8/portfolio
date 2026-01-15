@@ -5,6 +5,7 @@ import { Projects } from "@/components/projects"
 import { About } from "@/components/about"
 import { Contact } from "@/components/contact"
 import { Navbar } from "@/components/navbar"
+import { CookiePolicy } from "@/components/cookie-policy";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <About />
         <Projects />
         <Contact />
+        <CookiePolicy/>
       </main>
     </div>
   )

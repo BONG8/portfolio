@@ -68,5 +68,10 @@
     "buildTogether": "Costruiamo qualcosa insieme",
     "downloadResume": "Scarica Curriculum",
     "copyright": "© 2026 Portfolio Cristian Poretto"
+  },
+  "cookie_policy": {
+    "title": "Utilizzo dei Cookie",
+    "description": "Questo sito non utilizza cookie di profilazione o tracciamento. Non è necessario alcun consenso e nessun dato personale viene raccolto per fini pubblicitari.",
+    "accept": "Ho capito"
   }
 }

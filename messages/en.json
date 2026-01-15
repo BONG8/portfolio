@@ -68,5 +68,10 @@
     "buildTogether": "Let's build something together",
     "downloadResume": "Download Resume",
     "copyright": "© 2026 Cristian Poretto Portfolio"
+  },
+  "cookie_policy": {
+    "title": "Cookie Usage",
+    "description": "This site does not use profiling or tracking cookies. No consent is required, and no personal data is collected for advertising purposes.",
+    "accept": "Got it"
   }
 }
